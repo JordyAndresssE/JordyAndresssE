@@ -1,4 +1,4 @@
-<h1 align="center">Who is Sebastian Verdugo? </h1>
+<h1 align="center">Hi, my name is Jordy Andres Espinoza? </h1>
 <p align="center">
 
 </p>
