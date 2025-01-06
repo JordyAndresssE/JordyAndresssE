@@ -1,14 +1,13 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">my name is Jordy Andres Espinoza</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jordy Andres Espinoza</h1>
+ 
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Science+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>  
+<p align="center"><a href="https://github.com/JordyAndresssE/ProyectosPersonales">My personal projects↗️</a></p>
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=JordyAndresssE&label=Profile%20views&color=0047AB&style=plastic?" alt="JordyAndresssE" height=25px, width=160px/> 
-</p>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+![GitHub followers](https://img.shields.io/github/followers/JordyAndresssE?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JordyAndresssE?style=social)<img src="https://komarev.com/ghpvc/?username=JordyAndresssE" alt="" />
 
 <br><br>
 
