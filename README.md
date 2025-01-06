@@ -193,19 +193,19 @@
 
 ## 🌐 Connect with me
 <p align="center">
-	<a href="mailto:sebastianvccv@gmail.com" target="_blank">
+	<a href="mailto:jordyandrespinoza@gmail.com" target="_blank">
     <img alt="Gmail"src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="30px" />
   </a>
   &emsp;
-	<a href="https://github.com/verdugong" target="_blank">
+	<a href="https://github.com/JordyAndresssE" target="_blank">
     <img alt="Github"src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="30px" />
    </a>
   &emsp;
-	<a href="https://www.linkedin.com/in/sebastian-verdugo-635962344/" target="_blank">
+	<a href="https://www.linkedin.com/in/jordy-andres-espinoza-narvaez-781302140?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img alt="LinkedIn"src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="30px" />
    </a>
   &emsp;
-	<a href="https://www.instagram.com/verdugong/" target="_blank">
+	<a href="https://www.instagram.com/j_andresss_10/" target="_blank">
     <img alt="Instagram"src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="30px" />
   </a>
 </p>
