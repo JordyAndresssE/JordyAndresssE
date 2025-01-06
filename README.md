@@ -13,10 +13,10 @@
 
 - :school: Student at [Carrera de Ciencias de la Computación](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiZgYqnr86KAxXYmbAFHXnaMUQQFnoECBYQAQ&url=https%3A%2F%2Fwww.ups.edu.ec%2Fcomputacion-cuenca&usg=AOvVaw3rjA_jIF7AQ2iSIzCpD6WQ&opi=89978449) at [Universidad Politécnica Salesiana](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiTyLm4r86KAxURSDABHWT5CUYQFnoECAwQAQ&url=https%3A%2F%2Fwww.ups.edu.ec%2F&usg=AOvVaw1WfmsSSKHY9fnzaqVvo2xz&opi=89978449).
 - :technologist: Problem solver in Software, Hardware and Real life.
-- :computer:  Looking to specialize in IoT, Web Development, Telecommunications.
+- :computer:  Looking to specialize in IoT, Web Development, Telecommunications, IA, Databases.
 - :student: For now programming and learning Computer Science.
-- :guitar: Versatile and Melomaniac person.
-- :thinking: Currently open for a new Job Opportunity, this is [MY RESUME](https://drive.google.com/file/d/1-KkheQCdkgRLPeA19ttrHygKPZkJBVfe/view?usp=sharing).
+- ☕: Creative and Honest
+- :thinking: Do you need me for some work?, this is [MY RESUME](https://drive.google.com/file/d/1uxoEVyZ-z-uvQtLkheA_7LLkzxKRqzhu/view?usp=sharing).
 
 ## 🛠️ My Skills
 
