@@ -17,6 +17,8 @@
 - :student: For now programming and learning Computer Science.
 - ☕: Creative and Honest
 - :thinking: Do you need me for some work?, this is [MY RESUME](https://drive.google.com/file/d/1uxoEVyZ-z-uvQtLkheA_7LLkzxKRqzhu/view?usp=sharing).
+- 💻 : I am a JR developer, looking for experience
+- 🏗️ : CEO of PixelGo, this is [My software agency](https://www.pixelgosoft.com)
 
 ## 🛠️ My Skills
 
