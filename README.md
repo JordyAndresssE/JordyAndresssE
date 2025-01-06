@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=verdugong&label=Profile%20views&color=0047AB&style=plastic?" alt="verdugong" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=JordyAndresssE&label=Profile%20views&color=0047AB&style=plastic?" alt="JordyAndresssE" height=25px, width=160px/> 
 </p>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
